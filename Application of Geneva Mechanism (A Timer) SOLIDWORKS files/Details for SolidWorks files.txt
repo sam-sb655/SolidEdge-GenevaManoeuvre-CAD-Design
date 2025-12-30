@@ -1,0 +1,15 @@
+BoondiKeLaddoo
+-----------------------------------------------
+|Members:-				      |
+|1. Soumya Basuli (CE24Bt023)[Team Captain]   |
+|2. Anushaa B (CS24Bt032) 		      |
+|3. Rajat Gupta (ME24Bt049)		      |
+|---------------------------------------------|
+File references:-
+1. Exp_ver - Assmebly File
+2. wheel 1 - Geneva Driven wheel
+3. wheel 2 - Geneva Driving wheel
+4. base - Support Bracket
+5. stift - Shaft
+[The bevel gear is a design library component]
+(There are other component files that we added according to our convenience)
